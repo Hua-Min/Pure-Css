@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27906f37-9865-43f7-bf12-f594031d14e6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q0n5sYGI1v5lSxNL3GOUjnphIT" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaiduNetdiskDownload/撩课二期/第九阶段 React-practice" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.font.html">
+    <configuration name="font.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63341/B站 特效/02  闪动字体/font.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/B站 特效/01 简约登录界面/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.font.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27906f37-9865-43f7-bf12-f594031d14e6" name="Default Changelist" comment="" />
+      <created>1559487069068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559487069068</updated>
+      <workItem from="1559487072118" duration="372000" />
+      <workItem from="1559487476164" duration="861000" />
+      <workItem from="1559488356791" duration="69000" />
+      <workItem from="1559488437483" duration="410000" />
+      <workItem from="1559488865247" duration="817000" />
+      <workItem from="1559489699596" duration="156000" />
+      <workItem from="1559489872994" duration="52000" />
+      <workItem from="1559489942847" duration="388000" />
+      <workItem from="1559490347285" duration="2120000" />
+      <workItem from="1559520031285" duration="129000" />
+      <workItem from="1559520174002" duration="145000" />
+      <workItem from="1559520333275" duration="475000" />
+      <workItem from="1559520820673" duration="8701000" />
+      <workItem from="1566916205137" duration="51000" />
+      <workItem from="1566916266087" duration="33000" />
+      <workItem from="1566916308953" duration="247000" />
+      <workItem from="1566916566419" duration="59000" />
+      <workItem from="1566916635792" duration="212000" />
+      <workItem from="1566955175280" duration="1691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
